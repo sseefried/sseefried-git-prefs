@@ -1,0 +1,10 @@
+[color]
+	status = auto
+	diff = auto
+	status = auto
+[core]
+	excludesfile = HOME/.gitignore
+
+[user]
+	name = Sean Seefried
+	email = EMAIL
